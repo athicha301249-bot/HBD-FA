@@ -28,7 +28,7 @@ body {
 }
 
 .envelope:after {
-  content: "✉️
+  content: "✉
 ";
   font-size: 50px;
   position: absolute;
